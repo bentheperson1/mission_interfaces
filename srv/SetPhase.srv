@@ -1,0 +1,5 @@
+uint8 phase
+string note
+---
+bool accepted
+string message
